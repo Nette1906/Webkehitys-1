@@ -1,0 +1,50 @@
+/*style the whole page*/
+     body {
+        background-color: #d16aba;
+        max-width: 800px;
+        background-color: #f2c6f0;
+        padding: 50px;
+
+     }   
+     /*style the main heading*/
+     h1{
+        color: #ea7fd6;
+        font-size: 36px;
+        font-family:'Courier New';
+        text-align: center;
+        margin-bottom: 20px;
+     }
+/*style all paragraphs*/    
+    h1 {
+        color: #750461;
+        font-size: 18px;
+        line-height: 1.6;
+    
+    }
+
+    p {
+        color: #c35db2;
+        font-size: 18px;
+        line-height: 1.6;
+        margin-bottom: 20px;
+    }
+
+    /*Style the image*/
+     img{
+            max-width: 100%;
+            width: 200px;
+            border-radius: 10px;
+            border-left: 5px solid #f5a2d7;
+            border-right: 5px solid #e12cae;
+            border-top: 5px solid #e491b2;
+            border-bottom: 5px solid #ed7abd;
+        }
+        /*Style links*/
+        /*change the link color*/
+        a {
+            color: #e858d3;
+            text-decoration: none;
+        }   
+            
+            /*Style links when the mouse is over them*/
+      /*Remove the underline*/
