@@ -1,0 +1,13 @@
+button {
+    background-color: pink;
+    color: black;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: hotpink;
+}

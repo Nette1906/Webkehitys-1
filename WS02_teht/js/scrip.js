@@ -41,3 +41,11 @@ console.log("Hello, " + visitorName + "! Your favorite animal is " + visitorFavo
 // ⭐⭐ BONUS Otherwise, print: Nice! Your favorite animal is [animal]. Can you figure out how to do this using if / else?
 
 // const visitorFavoriteAnimal = prompt("What is your favorite animal?");
+
+// STEP 6: Button
+
+const myButton = document.getElementById("myButton");
+
+myButton.addEventListener("click", function() {
+    alert("Tein tämmösen JeeJee!");
+});
